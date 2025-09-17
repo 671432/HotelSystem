@@ -1,0 +1,20 @@
+﻿@model HotelLibrary.Models.User
+
+<h1>Custom Register</h1>
+
+<form method="post" action="@Url.Action("CustomRegister", "Account")">
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="lastname">Surname:</label>
+        <input type="text" id="lastname" name="lastname" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="phone">Phone Number:</label>
+        <input type="text" id="phone" name="phone" class="form-control" />
+    </div>
+    <hr />
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>

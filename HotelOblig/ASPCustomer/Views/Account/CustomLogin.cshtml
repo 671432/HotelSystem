@@ -1,0 +1,16 @@
+﻿@model HotelLibrary.Models.User
+
+<h1>Custom Login</h1>
+
+<form method="post" action="@Url.Action("CustomLogin", "Account")">
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="password">Phone Number:</label>
+        <input type="password" id="password" name="password" class="form-control" />
+    </div>
+    <hr />
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>

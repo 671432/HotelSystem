@@ -1,0 +1,14 @@
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Release\net8.0\HotelLibrary.deps.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Release\net8.0\HotelLibrary.runtimeconfig.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Release\net8.0\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Release\net8.0\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.csproj.AssemblyReference.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.AssemblyInfoInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.AssemblyInfo.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\refint\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\HotelLibrary.genruntimeconfig.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Release\net8.0\ref\HotelLibrary.dll

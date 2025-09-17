@@ -1,0 +1,56 @@
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.deps.json
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.runtimeconfig.json
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.dll
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.pdb
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.csproj.AssemblyReference.cache
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.AssemblyInfoInputs.cache
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.AssemblyInfo.cs
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.csproj.CoreCompileInputs.cache
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.dll
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/refint/HotelLibrary.dll
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.pdb
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.genruntimeconfig.cache
+C:/Users/Justin/Desktop/School/HVL/Semester4/DAT154/Coding/.NET/HotelOblig/HotelLibrary/obj/Debug/net8.0/ref/HotelLibrary.dll
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.deps.json
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.runtimeconfig.json
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.dll
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/bin/Debug/net8.0/HotelLibrary.pdb
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.csproj.AssemblyReference.cache
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.AssemblyInfoInputs.cache
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.AssemblyInfo.cs
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.csproj.CoreCompileInputs.cache
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.dll
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/refint/HotelLibrary.dll
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.pdb
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/HotelLibrary.genruntimeconfig.cache
+/Users/olemartinamundsen/Desktop/HotelOblig/HotelLibrary/obj/Debug/net8.0/ref/HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.deps.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.runtimeconfig.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.csproj.AssemblyReference.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.AssemblyInfoInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.AssemblyInfo.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\refint\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.genruntimeconfig.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\HotelLibrary\obj\Debug\net8.0\ref\HotelLibrary.dll
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.deps.json
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.runtimeconfig.json
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.dll
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\bin\Debug\net8.0\HotelLibrary.pdb
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.csproj.AssemblyReference.cache
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.AssemblyInfoInputs.cache
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.AssemblyInfo.cs
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.csproj.CoreCompileInputs.cache
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.dll
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\refint\HotelLibrary.dll
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.pdb
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\HotelLibrary.genruntimeconfig.cache
+F:\Projects\HotelOblig\HotelOblig\HotelLibrary\obj\Debug\net8.0\ref\HotelLibrary.dll

@@ -1,0 +1,76 @@
+﻿@model IEnumerable<HotelLibrary.Models.Room>
+
+@{
+    ViewData["Title"] = "Rooms List";
+}
+
+<h1>Rooms at Hotel Clouds</h1>
+
+<form method="get" action="@Url.Action("RoomsList", "RoomsList")">
+    <div class="form-group">
+        <label for="beds">Number of Beds:</label>
+        <input type="number" id="beds" name="beds" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="quality">Room Quality:</label>
+        <select id="quality" name="quality" class="form-control">
+            <option value="">Any</option>
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="fromDate">From Date:</label>
+        <input type="date" id="fromDate" name="fromDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="toDate">To Date:</label>
+        <input type="date" id="toDate" name="toDate" class="form-control" />
+    </div>
+    <hr />
+    <button type="submit" class="btn btn-primary">Apply Filter</button>
+</form>
+
+@if (Model == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Room Number</th>
+                <th>Amount of Beds</th>
+                <th>Room Quality</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var room in Model)
+            {
+                <tr>
+                    <td>@room.RoomNr</td>
+                    <td>@room.Beds</td>
+                    <td>@room.Quality</td>
+                    <td>@room.Status</td>
+                    <td>
+                        <!-- Add a link for booking a room -->
+                        @if (ViewData["UserId"] != null)
+                        {
+                            <!-- Check if the user is logged in -->
+                            <a href="@Url.Action("BookRoom", "BookRoom", new { roomId = room.RoomNr })" class="btn btn-primary">Book Room</a>
+                        }
+                        else
+                        {
+                            <!-- If user is not logged in, display a link to the login page -->
+                            <a href="@Url.Action("CustomLogin", "Account")" class="btn btn-primary">Login to Book</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

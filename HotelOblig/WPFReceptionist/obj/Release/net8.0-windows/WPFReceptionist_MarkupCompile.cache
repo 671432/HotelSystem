@@ -1,0 +1,20 @@
+﻿WPFReceptionist
+
+
+winexe
+C#
+.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Release\net8.0-windows\
+WPFReceptionist
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\App.xaml
+9-388307981
+
+12670353368
+239385645391
+AllTasks.xaml;Authenticate.xaml;CreateReservation.xaml;CreateUser.xaml;Editor.xaml;MainWindow.xaml;ManageReservation.xaml;ServiceRoom.xaml;TaskManager.xaml;
+
+True
+

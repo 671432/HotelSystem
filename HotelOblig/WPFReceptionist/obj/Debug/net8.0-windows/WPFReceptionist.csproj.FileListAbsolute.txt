@@ -1,0 +1,748 @@
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.AssemblyReference.cache
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.g.cs
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.g.cs
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.cache
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.lref
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.exe
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.deps.json
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.runtimeconfig.json
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.pdb
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.baml
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.baml
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.g.resources
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfoInputs.cache
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfo.cs
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CoreCompileInputs.cache
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFRecep.C75E0D00.Up2Date
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\refint\WPFReceptionist.dll
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.genruntimeconfig.cache
+C:\Users\OMA\Desktop\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ref\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.exe
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.deps.json
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.runtimeconfig.json
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.AssemblyReference.cache
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.cache
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.lref
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.g.resources
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfoInputs.cache
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfo.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CoreCompileInputs.cache
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CopyComplete
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\refint\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.genruntimeconfig.cache
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ref\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.baml
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.g.cs
+C:\Users\sondr\source\repos\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.exe
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.deps.json
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.runtimeconfig.json
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.pdb
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.cache
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.lref
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.baml
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.g.resources
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfo.cs
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFRecep.C75E0D00.Up2Date
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\refint\WPFReceptionist.dll
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.genruntimeconfig.cache
+C:\Users\Justin\Desktop\2HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ref\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.exe
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.deps.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.runtimeconfig.json
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.AssemblyReference.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.lref
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.baml
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.g.resources
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfoInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfo.cs
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CoreCompileInputs.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CopyComplete
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\refint\WPFReceptionist.dll
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.pdb
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.genruntimeconfig.cache
+C:\Users\sondr\source\repos\HotelOblig (1)\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ref\WPFReceptionist.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.exe
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.deps.json
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.runtimeconfig.json
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\WPFReceptionist.pdb
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Humanizer.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\bin\Debug\net8.0-windows\HotelLibrary.pdb
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.AssemblyReference.cache
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\App.g.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.cache
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist_MarkupCompile.lref
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\AllTasks.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Authenticate.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateReservation.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\CreateUser.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\Editor.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\MainWindow.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ManageReservation.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ServiceRoom.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\TaskManager.baml
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.g.resources
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfoInputs.cache
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.AssemblyInfo.cs
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.csproj.CoreCompileInputs.cache
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFRecep.C75E0D00.Up2Date
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\refint\WPFReceptionist.dll
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.pdb
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\WPFReceptionist.genruntimeconfig.cache
+F:\Projects\HotelOblig\HotelOblig\WPFReceptionist\obj\Debug\net8.0-windows\ref\WPFReceptionist.dll

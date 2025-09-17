@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Book Room";
+}
+
+<h1>Book Room</h1>
+
+<form method="post" action="@Url.Action("ConfirmBooking", "BookRoom")">
+    <div class="form-group">
+        <label for="checkInDate">Check-in Date:</label>
+        <input type="date" id="checkInDate" name="checkInDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="checkOutDate">Check-out Date:</label>
+        <input type="date" id="checkOutDate" name="checkOutDate" class="form-control" />
+    </div>
+    <input type="hidden" name="roomId" value="@ViewBag.RoomId" />
+    <hr/>
+    <button type="submit" class="btn btn-primary">Confirm Booking</button>
+</form>

@@ -1,0 +1,72 @@
+﻿<Window x:Class="WPFReceptionist.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFReceptionist"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowState="Maximized" Height="450" Width="800">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF48AF9F"/>
+            <GradientStop Color="#FFFD87FE" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="10,10,10,15">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFFF87FF" Offset="1"/>
+                <GradientStop Color="#FF48AF9F"/>
+                <GradientStop Color="#FFFD87FE" Offset="0.991"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Name="CreateReservation" Content="Create Reservation" Height="97" Width="341" Click="CreateReservation_Click" Foreground="White" FontFamily="Bahnschrift" MinWidth="119" MinHeight="36" Margin="31,146,428,191" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF5AFF00" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ManageReservation" Content="Manage Reservation" Margin="31,292,428,44" Height="98" Width="341" Click="ManageReservation_Click" Foreground="White" FontFamily="Bahnschrift" MinWidth="119" MinHeight="36" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00FFD6" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="ServiceRoom" Content="Service" Margin="428,292,31,44" Height="98" Width="341" Click="ServiceRoom_Click" Foreground="White" FontFamily="Bahnschrift" MinWidth="119" MinHeight="36" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="Red" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Loggin" Content="Log inn/out" Margin="428,146,31,191" Height="97" Width="341" Click="Authenticate_Click" Foreground="White" FontFamily="Bahnschrift" MinWidth="119" MinHeight="36" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FFF1FF00" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox Name="FeedBack" HorizontalAlignment="Center" Margin="0,62,0,0" IsReadOnly="True" TextWrapping="Wrap" Text="{Binding LoginStatus}"  TextAlignment="Center" VerticalAlignment="Top" Width="auto" Height="23" TextChanged="FeedBack_TextChanged" Background="{x:Null}"/>
+
+    </Grid>
+</Window>
+    

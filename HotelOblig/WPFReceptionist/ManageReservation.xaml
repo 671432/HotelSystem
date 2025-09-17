@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPFReceptionist.ManageReservation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:WPFReceptionist"
+        Title="ManageReservation" WindowState="Maximized" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="ReservationsListView" ItemsSource="{Binding}"  BorderBrush="#FF005BFF" Foreground="#FF0E318E" MouseDoubleClick="ReservationsListView_MouseDoubleClick">
+            <ListView.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF48AF9F"/>
+                    <GradientStop Color="#FFFD87FE" Offset="1"/>
+                </LinearGradientBrush>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Reservation ID" DisplayMemberBinding="{Binding ReservationId}" Width="100"/>
+                    <GridViewColumn Header="Room Number" DisplayMemberBinding="{Binding RoomNr}" Width="auto"/>
+                    <GridViewColumn Header="User ID" DisplayMemberBinding="{Binding UserId}" Width="auto"/>
+                    <GridViewColumn Header="From Date" DisplayMemberBinding="{Binding FromDate}" Width="auto"/>
+                    <GridViewColumn Header="To Date" DisplayMemberBinding="{Binding ToDate}" Width="auto"/>
+                    <GridViewColumn Header="Status" DisplayMemberBinding="{Binding Status}" Width="auto"/>
+                    <GridViewColumn Header="Room Details" DisplayMemberBinding="{Binding RoomNrNavigation.Quality}" Width="auto"/>
+                    <GridViewColumn Header="User Name" DisplayMemberBinding="{Binding User.Name}" Width="auto"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

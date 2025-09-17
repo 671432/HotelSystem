@@ -1,0 +1,32 @@
+﻿@model IEnumerable<HotelLibrary.Models.Reservation>;
+
+@{
+    ViewData["Title"] = "Reservation Status";
+}
+
+<h1>Status of your Reservation(s)</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No reservation found</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Room Number</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reservation in Model)
+            {
+                <tr>
+                    <td>@reservation.RoomNr</td>
+                    <td>@reservation.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

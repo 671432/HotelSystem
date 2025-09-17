@@ -1,0 +1,64 @@
+﻿<Window x:Class="WPFReceptionist.TaskManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFReceptionist"
+        mc:Ignorable="d"
+        Title="TaskManager" Height="452" Width="707">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF00FFD7"/>
+            <GradientStop Color="#FFFD00FF" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="707" Height="436">
+        <Grid>
+            <Button Name="Cleaing" Content="Cleaning" HorizontalAlignment="Left" Margin="25,154,0,0" VerticalAlignment="Top" Height="64" Width="196" Click="Cleaing_Click" Foreground="White" FontFamily="Bahnschrift">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF00F8C5" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Name="RoomService" Content="Room Service" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Height="64" Width="196" Click="RoomService_Click" FontFamily="Bahnschrift" Foreground="White">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF37FF00"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Name="Maintenance" Content="Maintenance" HorizontalAlignment="Left" Margin="487,154,0,0" VerticalAlignment="Top" Height="64" Width="196" Click="Maintenance_Click" FontFamily="Bahnschrift" Foreground="White">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Label Content="Order Services here" HorizontalAlignment="Center" Margin="0,62,0,0" VerticalAlignment="Top" Height="42" Width="160" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="Black"/>
+            <Button Name="ListAll" Content="All Tasks" HorizontalAlignment="Center" Margin="0,281,0,0" VerticalAlignment="Top" Height="64" Width="196" Click="ListAll_Click" FontFamily="Bahnschrift" Foreground="White">
+                <Button.Effect>
+                    <DropShadowEffect/>
+                </Button.Effect>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFFFEA00"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

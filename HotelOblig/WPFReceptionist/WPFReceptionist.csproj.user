@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AllTasks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Authenticate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Editor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageReservation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ServiceRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AllTasks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Authenticate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CreateUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Editor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageReservation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ServiceRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

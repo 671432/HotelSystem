@@ -1,0 +1,56 @@
+﻿<Window x:Class="WPFReceptionist.CreateReservation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFReceptionist"
+        mc:Ignorable="d"
+        Title="CreateReservation" Height="224" Width="560">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF48AF9F"/>
+                <GradientStop Color="#FFFD87FE" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid Margin="22,15,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="Customer Phone" Margin="15,12,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="105" MaxHeight="30.04" MinWidth="105" MinHeight="30.04" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <TextBox x:Name="userPhoneTextBox" Margin="120,15,0,0" RenderTransformOrigin="-1.282,-0.573" Background="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Width="174" Height="24"/>
+        </Grid>
+
+        <Grid Margin="20,122,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="Room Number" Margin="17,9,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MinWidth="105" MinHeight="26.04" MaxHeight="26.04" MaxWidth="105" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" />
+            <TextBox x:Name="roomNumberTextBox" Margin="122,10,0,0" Background="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="174" MaxHeight="24.04" MinWidth="174" MinHeight="24" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Grid>
+
+        <Grid Margin="81,63,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="From Date" Margin="19,8,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MinWidth="87" MinHeight="29.04" MaxHeight="29.04" MaxWidth="87" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <DatePicker x:Name="fromDatePicker" Margin="10,35,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Width="102" MinWidth="102" MaxWidth="102" MinHeight="24" MaxHeight="24" HorizontalAlignment="Left"/>
+        </Grid>
+
+        <Grid Margin="198,63,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Label Content="To Date" Margin="10,7,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MinWidth="103" MinHeight="28" MaxWidth="103" MaxHeight="28" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            <DatePicker x:Name="toDatePicker" Margin="16,35,0,0" Background="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Width="102" MinWidth="102" MinHeight="24" MaxWidth="102" MaxHeight="24"/>
+        </Grid>
+
+        <Grid Margin="348,16,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Button Content="Save Reservation" Margin="10,98,0,0" Click="CreateReservation_Click" FontFamily="Bahnschrift" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="157" MaxHeight="51.04" MinWidth="157" MinHeight="51" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF00FFD6"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Name="CreateUser" Content="Create Customer" Margin="10,11,0,0" Click="CreateUser_Click" Height="51" Width="156" FontFamily="Bahnschrift" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxWidth="157" MaxHeight="51" MinWidth="157" MinHeight="51" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF5AFF00"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

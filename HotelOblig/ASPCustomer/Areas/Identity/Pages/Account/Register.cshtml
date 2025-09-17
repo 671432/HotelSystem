@@ -1,0 +1,21 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-6 col-md-offset-2">
+        <section>
+            <h3>Registration Service Provided by Hotel Clouds.</h3>
+            <hr />
+            <a href="~/Account/CustomRegister" class="w-100 btn btn-lg btn-primary">Custom register</a>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

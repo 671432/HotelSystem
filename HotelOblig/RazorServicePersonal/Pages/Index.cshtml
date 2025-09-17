@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@using System.Net.Http.Json;
+@using HotelLibrary.Models;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>What work will you be doing today?</p>
+    <!-- <a href="./MaintenancePage" class ="btn btn-primary">Maintenance</a> -->
+    <a asp-page="./Maintenance">Maintenance</a>
+    <a asp-page="./RoomService">Room Service</a>
+    <a asp-page="./Cleaning">Cleaning</a>
+
+
+
+</div>
